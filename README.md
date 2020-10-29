@@ -1,5 +1,7 @@
 # Fira Code iScript
 
+**This fork has the width of Script12 fixed correctly so that it's the same width as Fira Code.**
+
 A font mashup to be used in code editors, displaying a script typeface for the italic font style.
 
 The Regular and Bold face styles are taken from [Fira Code](https://github.com/tonsky/FiraCode) and [Script12](https://www.myfontsfree.com/134618/script12pitchbt.htm).
